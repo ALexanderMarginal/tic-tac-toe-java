@@ -1,0 +1,40 @@
+import java.util.Scanner;
+
+class Main {
+    static final int MAX = 100;
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int[][] matrix = new int[n][n];
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                matrix[i][j] = scanner.nextInt();
+            }
+        }
+
+        if (isSymmetric(matrix, n)) {
+            System.out.println("YES");
+        }
+        else {
+            System.out.println("NO");
+        }
+    }
+
+    static boolean isSymmetric(int mat[][], int N) {
+        int tr[][] = new int[N][MAX];
+        transpose(mat, tr, N);
+        for (int i = 0; i < N; i++)
+            for (int j = 0; j < N; j++)
+                if (mat[i][j] != tr[i][j])
+                    return false;
+        return true;
+    }
+
+    static void transpose(int mat[][], int tr[][], int N) {
+        for (int i = 0; i < N; i++)
+            for (int j = 0; j < N; j++)
+                tr[i][j] = mat[j][i];
+    }
+}

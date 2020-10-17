@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Tic-Tac-Toe.Problems-Check_sudoku.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fill the matrix by numbers/Tic-Tac-Toe.Problems-Fill_the_matrix_by_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rotate a rectangle array/Tic-Tac-Toe.Problems-Rotate_a_rectangle_array.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The star figure/Tic-Tac-Toe.Problems-The_star_figure.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>
